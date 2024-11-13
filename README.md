@@ -33,3 +33,8 @@ Reset the Stopwatch:<br>
   Click the "Reset" button to reset the time to 00:00:00.<br>
 Record Laps: <br>
   Click the "Lap" button to record the current time as a lap, which will be saved in the lap history section.
+
+
+<h3>Acknowledgments</h3>
+
+Thank you to SkillCraft Technology for the opportunity to work on this project.
